@@ -1,0 +1,15 @@
+{
+  "name": "solidjs-examples",
+  "version": "1.0.0",
+  "description": "Examples for [Solid](https://www.solidjs.com/).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickbeerendonk/solidjs-examples.git"
+  },
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/rickbeerendonk/solidjs-examples/issues"
+  },
+  "homepage": "https://github.com/rickbeerendonk/solidjs-examples#readme"
+}
