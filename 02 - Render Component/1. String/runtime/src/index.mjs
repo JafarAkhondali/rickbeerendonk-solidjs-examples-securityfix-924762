@@ -3,6 +3,6 @@
 
 import { render } from "solid-js/web";
 
-import App from "./app.js";
+import App from "./app.mjs";
 
 render(App, document.body);
