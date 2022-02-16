@@ -11,5 +11,13 @@
   "bugs": {
     "url": "https://github.com/rickbeerendonk/solidjs-examples/issues"
   },
-  "homepage": "https://github.com/rickbeerendonk/solidjs-examples#readme"
+  "homepage": "https://github.com/rickbeerendonk/solidjs-examples#readme",
+  "scripts": {
+    "clean": "rimraf node_modules",
+    "start": "node ./server/server.js"
+  },
+  "dependencies": {
+    "serve": "11.3.2",
+    "solid-js": "1.3.7"
+  }
 }
